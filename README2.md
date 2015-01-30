@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Swift Chat Example
 ==============
 
@@ -26,3 +27,6 @@ This example still has some rough edges around authentication. They'll be fixed 
 
 ## License
 [MIT](http://firebase.mit-license.org)
+=======
+# chat_test
+>>>>>>> c5fc66ecf4f8a2f0c0416f44fbcb6f7b97f251b7
